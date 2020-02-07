@@ -34,5 +34,5 @@ Contributors list here --> [contributors](https://github.com/a-dera/Zlouk-ri/con
 
 ## License
 
-This project his under the``GNU GPL``  licence - See  the [LICENSE](LICENSE)  file for more in formations
+This project his under the``MIT``  licence - See  the [LICENSE](LICENSE)  file for more in formations
 
