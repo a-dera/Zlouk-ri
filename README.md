@@ -1,5 +1,5 @@
 # Zlouk-ri
-A Web Application for projects, websites, and app names generation.<br>
+A Django based Web Application for projects, websites, and apps name generation.<br>
 ![shields](https://img.shields.io/badge/-Generate-lightgrey) ![shields](https://img.shields.io/badge/-Projects-lightgrey),
  ![shields](https://img.shields.io/badge/-Website-lightgrey) ![shields](https://img.shields.io/badge/-And-lightgrey)
  ![shields](https://img.shields.io/badge/-Applications-lightgrey) ![shields](https://img.shields.io/badge/-Names-lightgrey)
