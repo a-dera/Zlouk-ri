@@ -1,0 +1,5 @@
+[client]
+database = zlou
+user = root
+password = 
+default-character-set = utf8
