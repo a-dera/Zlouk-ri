@@ -14,10 +14,16 @@ A Web Application for projects, websites, and app names generation.<br>
 * [Bootstrap.css](https://getbootstrap.com/) - Framework CSS (front-end)
 * [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework
 
-
-
 ## Contributing
+ ```
+ * First clone the project
+ * Install pipenv
+ * Setup your virtual env
+ * Install the dependancies listed in ./pipefile ´
+ * Run and have fun 
 
+```
+ 
 Make sure you read  [CONTRIBUTING.md](CONTRIBUTING.md) before contributing to the the project.
 
 ## Versions
