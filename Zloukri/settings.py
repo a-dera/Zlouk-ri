@@ -80,9 +80,16 @@ DATABASES = {
         #'ENGINE': 'django.db.backends.sqlite3',
         #'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
         'ENGINE': 'django.db.backends.postgresql',
-        'OPTIONS': {
-            'read_default_file': os.path.join(BASE_DIR, 'configs.cnf'),
-        },
+        'HOST' : 'ec2-52-204-141-94.compute-1.amazonaws.com',
+        'NAME' : 'd7pcobmbi14dn0',
+        'USER' : 'ulcwyzhvhsdyvh',
+        'PORT' : '5432',
+        'PASSWORD' : '5e94b2dac493cd90bc438422ef3bd0b98d8d03d9d0e4cc6a845b9d27165514be',
+        'URI' : 'postgres://ulcwyzhvhsdyvh:5e94b2dac493cd90bc438422ef3bd0b98d8d03d9d0e4cc6a845b9d27165514be@ec2-52-204-141-94.compute-1.amazonaws.com:5432/d7pcobmbi14dn0',
+        'Heroku CLI' : 'heroku pg:psql postgresql-shaped-92344 --app zloukri',
+        #'OPTIONS': {
+        #   'read_default_file': os.path.join(BASE_DIR, 'configs.cnf'),
+        #},
     }
 }
 
