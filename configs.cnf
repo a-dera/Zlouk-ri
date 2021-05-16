@@ -1,5 +1,9 @@
 [client]
-name = zloukri
-user = root
-password = 
+Host = ec2-52-204-141-94.compute-1.amazonaws.com
+Database = d7pcobmbi14dn0
+User = ulcwyzhvhsdyvh
+Port = 5432
+Password = 5e94b2dac493cd90bc438422ef3bd0b98d8d03d9d0e4cc6a845b9d27165514be
+URI = postgres://ulcwyzhvhsdyvh:5e94b2dac493cd90bc438422ef3bd0b98d8d03d9d0e4cc6a845b9d27165514be@ec2-52-204-141-94.compute-1.amazonaws.com:5432/d7pcobmbi14dn0
+Heroku CLI = heroku pg:psql postgresql-shaped-92344 --app zloukri
 default-character-set = utf8
