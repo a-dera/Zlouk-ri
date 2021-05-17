@@ -1,0 +1,4 @@
+web: gunicorn Zloukri.wsgi
+
+
+
