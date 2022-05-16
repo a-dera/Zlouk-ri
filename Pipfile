@@ -11,7 +11,7 @@ django-debug-toolbar = "*"
 django-role-permissions = "*"
 regex = "*"
 requests = "*"
-Django = "==3.1.13"
+Django = "==3.1.14"
 django-model-utils = "*"
 django-taggit = "*"
 
